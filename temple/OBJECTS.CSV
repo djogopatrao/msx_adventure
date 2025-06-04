@@ -1,0 +1,16 @@
+'ol, ox , oy , oc , os , oh , ow, oa, vx , vy,texto
+ 1, 28 , 80 , 10 , 5  , 8  , 8 , 0 , 0  , 0 , 0 chave amarela
+ 1, 28 , 80 , 15 , 5  , 8  , 8 , 0 , 0  , 0 , 1 chave branca
+ 1, 28 , 80 , 1  , 5  , 8  , 8 , 0 , 0  , 0 , 2 chave preta
+ 1, 28 , 160, 10 , 6  , 8  , 8 , 0 , 0  , 0 , 3 espada
+ 1, 28 , 80 , 1  , 7  , 16 , 8 , 0 , 0  , 0 , 4 ima
+ 1, 28 , 80 , 0  , 8  , 16 , 8 , 1 , 0  , 0 , 5 taça
+ 1, 32 , 104, 5  , 18 , 48 , 8 , 0 , 0  , 0 , 6 ponte
+ 30, 28 , 80 , 10 , 9  , 40 , 8 , 0 , 0  , 0 , 7 dragao amarelo
+ 30, 28 , 80 , 3  , 9  , 40 , 8 , 0 , 0  , 0 , 8 dragao verde
+ 30, 28 , 80 , 8  , 9  , 40 , 8 , 0 , 0  , 0 , 9 dragao vermelho
+ 30, 28 , 8  , 1  , 24 , 20 , 8 , 0 , 0  , 0 , 10 morcego
+ 30, 76 , 111, 1  , 4  , 32 , 8 , 0 , 0  , 0 , 11 porta do castelo amarelo (oa: bit 256=1 aberto/0 fechado 0-255 sala que vai)
+ 30, 76 , 111, 1  , 4  , 32 , 8 , 27, 0  , 0 , 12 porta do castelo branco
+ 30, 76 , 111, 1  , 4  , 32 , 8 , 7 , 0  , 0 , 13 porta do castelo preto
+ 30, 70,   16, 4  , 27 , 16 , 16, 1 , 0  , 0 , 14 portal (oa=jogo que ele vai)

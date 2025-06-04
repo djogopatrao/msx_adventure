@@ -1,0 +1,20 @@
+'ol, ox , oy , oc , os , oh , ow, oa, vx , vy,texto
+ 19, 31 , 80 , 13 , 5  , 8  , 8 , 0 , 0  , 0 , 0 chave roxa (castelo x)
+ 29, 31 , 80 , 15 , 5  , 8  , 8 , 0 , 0  , 0 , 1 chave branca
+  4, 80 ,160 , 1  , 5  , 8  , 8 , 0 , 0  , 0 , 2 chave preta
+ 1 , 31 ,153 , 10 , 6  , 8  , 8 , 0 , 0  , 0 , 3 espada
+ 28, 112,153 , 1  , 7  , 16 , 8 , 0 , 0  , 0 , 4 ima                         - 1o sprite 5  2o sprite: 14
+ 15, 51 ,153 , 0  , 8  , 16 , 8 , 1 , 0  , 0 , 5 taça                        -           6             15
+ 21, 31,  40 , 5  , 18 , 48 , 8 , 0 , 0  , 0 , 6 ponte                                   7             16
+ 11, 31 , 80 , 14 , 9  , 40 , 8 , 0 , 0  , 0 , 7 dragao cinza   (oa=status)              8             17
+ 28, 31 , 80 , 13 , 9  , 40 , 8 , 0 , 1  , 1 , 8 dragao roxo    (oa=status)              9             18
+ 15, 31 , 80 ,  1 , 9  , 40 , 8 , 0 , 1  , 1 , 9 dragao preto   (oa=status)             10             19
+ 29,  3 , 80 , 1  , 24 , 20 , 8 ,-1 , 0  , 0 , 10 morcego       (oa=status)             11             20  
+ 28, 76 , 111, 1  , 4  , 32 , 8 ,  9, 0  , 0 , 11 porta do castelo roxo (oa: bit 256=1 aberto/0 fechado 0-255 sala que vai)
+ 22, 76 , 111, 1  , 4  , 32 , 8 , 14, 0  , 0 , 12 porta do castelo branco
+ 6 , 76 , 111, 1  , 4  , 32 , 8 , 21, 0  , 0 , 13 porta do castelo preto
+ -1, 70,   16, 4  , 27 , 16 , 16, 1 , 0  , 0 , 14 portal
+ 16, 72 , 178, 14 , 33 , 8  ,  8, 0 , 0  , 0 , 15 grey dot
+ 31, 68 ,  92, 9  , 27 , 16 ,  8, 0 , 0  , 0 , 16 portal laranja (no labirinto)
+  7, 86 , 148, 7  , 27 , 16 ,  8, 0 , 0  , 0 , 17 portal azul  (indisponível)
+ -1, 72 ,  40, 5  , 36 , 8  , 16, 0 , 0  , 0 , 18 arma de portal (indisponível)

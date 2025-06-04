@@ -1,0 +1,20 @@
+'ol, ox , oy , oc , os , oh , ow, oa, vx , vy,texto
+ 1 , 28 , 80 , 10 , 5  , 8  , 8 , 0 , 0  , 0 , 0 chave amarela
+22 , 28 , 80 , 15 , 5  , 8  , 8 , 0 , 0  , 0 , 1 chave branca (indisponível)
+ 5 , 28 , 80 , 1  , 5  , 8  , 8 , 0 , 0  , 0 , 2 chave preta
+ 0 , 28 , 160, 10 , 6  , 8  , 8 , 0 , 0  , 0 , 3 espada
+ 7 , 28 , 80 , 1  , 7  , 16 , 8 , 0 , 0  , 0 , 4 ima
+ 8 , 28 , 80 , 0  , 8  , 16 , 8 , 1 , 0  , 0 , 5 taça
+ 13, 32 , 104, 5  , 18 , 48 , 8 , 0 , 0  , 0 , 6 ponte
+ 3 , 28 , 80 , 10 , 9  , 40 , 8 , 0 , 0  , 0 , 7 dragao amarelo
+ 5 , 28 , 80 , 12  , 9  , 40 , 8 , 0 , 0  , 0 , 8 dragao verde
+ 22, 28 , 80 , 8  , 9  , 40 , 8 , 0 , 0  , 0 , 9 dragao vermelho  (indisponível)
+ 22, 28 , 8  , 1  , 24 , 20 , 8 , 0 , 0  , 0 , 10 morcego  (indisponível)
+ 1 , 76 , 111, 1  , 4  , 32 , 8 , 0 , 0  , 0 , 11 porta do castelo amarelo (oa: bit 256=1 aberto/0 fechado 0-255 sala que vai)
+ 22, 76 , 111, 1  , 4  , 32 , 8 , 27, 0  , 0 , 12 porta do castelo branco  (indisponível)
+ 6 , 76 , 111, 1  , 4  , 32 , 8 , 7 , 0  , 0 , 13 porta do castelo preto (indisponível)
+ 22, 70,   16, 4  , 27 , 16 , 16, 1 , 0  , 0 , 14 portal (indisponivel)
+ 22, 28 , 96 , 13 , 5  , 8  , 8 , 0 , 0  , 0 , 15 grey dot (indisponível)
+ -1, 28 ,  80, 9  , 27 , 16 , 8, 0 , 0  , 0 , 16 portal laranja (indisponivel)
+ -1, 78 ,  80, 7  , 27 , 16 , 8, 0 , 0  , 0 , 17 portal azul (indisponivel)
+ -1, 72 , 40 , 5  , 36 , 8 , 16, 0 , 0  , 0 , 18 arma de portal (indisponível)
