@@ -1,4 +1,5 @@
-# duckslayeradventure
+# msx adventure
+
 
 msxbas2rom.exe -c main16-6.asc
 
