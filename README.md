@@ -1,5 +1,16 @@
 # msx adventure
 
+este é o código fonte e demais artefatos necessários para compilar o jogo MSX Adventure, um port para MSX 1 do jogo de Atari 2600.
+
+# usando este código
+
+o código está publicado usando a licença gnu gpl 3.0, sendo portanto livre para reuso desde que o resultado também seja gnu gpl. porém tenho alguns pedidos:
+
+- coloque em seu código, e em alguma tela de seu programa, a mensagem "based on code by diogo patrao - rutabagagames"
+- coloque em seu código a url deste repositório como comentário
+- ficarei muito feliz em receber uma cópia, digital ou física, do jogo se vc decidir melhorar ou reproduzir =)
+  
+# compilando
 
 msxbas2rom.exe -c main16-6.asc
 
